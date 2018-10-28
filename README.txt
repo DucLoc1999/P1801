@@ -20,3 +20,5 @@ Date: 27/10/2018
 	+) Scatter_2D
 	+) Scatter_3D
 	+) multiMatrix
+	+)jointplot
+	+)lmplot
