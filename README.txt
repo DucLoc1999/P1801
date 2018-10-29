@@ -3,13 +3,20 @@
 Date: 18/10/2018
   *) DataVisualization demo version
   Add DataVisualization package
+    DrawChar.py
     -) Function: 
-      +) fileVisualizer: display file feature
-      +) drawBar: draw bar chart plot
-      +) drawLine: draw line chart plot
-      +) drawHistogram: draw histogram plot
+	+) fileVisualizer: display file feature
+	+) drawBar
+	+) drawLine
+	+) drawHistogram
   
-    -) Notes: 
-      Về phần chỉnh sửa file thì ai muốn add một tính năng nào mới gì viết thêm một file.py trong package rồi chạy thử ở phần test.
-    Nhóm mình sẽ thống nhất và gộp thành hàm vào pakage.
-    ...by Hào.
+Date: 27/10/2018
+  *) DataVisualization full
+  New function in DataVisualization:
+	+) drawStem
+	+) drawBox
+	+) drawViolin
+  Add ScatterPlot.py
+	+) Scatter_2D
+	+) Scatter_3D
+	+) multiMatrix
